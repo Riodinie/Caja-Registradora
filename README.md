@@ -1,6 +1,7 @@
 Datos Importantes.
 
 Usuario: ZAFRUTA
+
 Contraseña: ADM
 
 Deje unos archivos predeterminados de los clientes por si quieren probar el funcionamiento rapidamente.
